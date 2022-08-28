@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://sites.google.com/view/lap-mang-fpt-tai-binh-duong';
+	var url_popup = 'https://www.facebook.com/buoitantrieutuhoang';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://www.facebook.com/buoitantrieutuhoang';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
